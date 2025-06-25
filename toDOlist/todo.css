@@ -1,0 +1,29 @@
+*{
+    
+    background-color: pink;
+    button{
+        background-color: red;
+        color: white;
+        border-radius: 30%;
+        border-color: brown;
+    }
+    input{
+        background-color: white;
+        color: black;
+        border-radius: 10%;
+        border-color: brown;
+}
+
+li{
+    
+    color: rgb(141, 3, 136);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    
+    
+}
+
+
+
+
+}
